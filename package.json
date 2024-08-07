@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.19.39",
+    "axios": "^1.7.2",
+    "canvas": "^2.11.2",
+    "cheerio": "^1.0.0-rc.12",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.33.0",
+    "vitest": "^2.0.2"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
